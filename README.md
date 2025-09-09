@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandrasekhar-Matta
 - 👀 I’m interested in ... .Net Developer
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, React, Node.js, .Net, C#, SQL, EF, Web API, ADO, Git, Github
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript, React, .Net, C#, ASP.NET, MVC< SQL, EF, Web API, ADO, Git, Github, Docker
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Chandrasekharmtta777@gmail.com
 - 😄 Pronouns: ... He
